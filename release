@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 PACKAGE_NAME='beaver'
-PUBLIC="true"
+PUBLIC="false"
 
 # Colors
 COLOR_OFF="\033[0m"   # unsets color to term fg color
